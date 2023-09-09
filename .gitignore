@@ -3,7 +3,10 @@ Temp
 UserSettings
 Logs
 
+obj
+
 *.sln
 *.csproj
+
 .DS_Store
 
